@@ -1,2 +1,2 @@
-# Block13-If-Else
+# block13-if-else
 Fullstack Academy Block 13 Workshop: If/Else
